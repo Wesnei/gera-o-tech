@@ -13,40 +13,24 @@ Aperfeiçoamento sobre o uso dessas ferramentas poderosas proposta no curso gera
 ## Como Usar
 
 1. **Copiar a url do repositório:**
-   
-   ```bash
 https://github.com/Wesnei/gera-o-tech.git
 
 2. **Clonar o repositório:**
-
-   ```bash
 git clone https://github.com/Wesnei/gera-o-tech.git
 
 3. **Navegar até o Diretório Clonado::**
-
-   ```bash
 cd gera-o-tech
 
 4. **Criar e Editar o Arquivo::**
-
-   ```bash
 echo "Meu texto inicial" > meu_arquivo.txt
 
-
 5. **Adicionar o Arquivo ao Repositório Git::**
-
-   ```bash
 git add meu_arquivo.txt
 
-
 6. **Confirmar mudanças::**
-
-   ```bash
 git commit -m "Adicionado meu_arquivo.txt com texto inicial"
 
 7. **Enviar as Mudanças para o Repositório Remoto::**
-
-   ```bash
    git push origin main
 
 ## Contato
