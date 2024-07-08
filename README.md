@@ -18,19 +18,19 @@ https://github.com/Wesnei/gera-o-tech.git
 2. **Clonar o repositório:**
 git clone https://github.com/Wesnei/gera-o-tech.git
 
-3. **Navegar até o Diretório Clonado::**
+3. **Navegar até o Diretório Clonado:**
 cd gera-o-tech
 
-4. **Criar e Editar o Arquivo::**
+4. **Criar e Editar o Arquivo:**
 echo "Meu texto inicial" > meu_arquivo.txt
 
-5. **Adicionar o Arquivo ao Repositório Git::**
+5. **Adicionar o Arquivo ao Repositório Git:**
 git add meu_arquivo.txt
 
-6. **Confirmar mudanças::**
+6. **Confirmar mudanças:**
 git commit -m "Adicionado meu_arquivo.txt com texto inicial"
 
-7. **Enviar as Mudanças para o Repositório Remoto::**
+7. **Enviar as Mudanças para o Repositório Remoto:**
    git push origin main
 
 ## Contato
